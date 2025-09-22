@@ -1,4 +1,10 @@
-x = 5
-y = "meow"
+person = {
+    "name": "John Doe",
+    "age": 30,
+    "city": "New York"
+}
 
-print(x)
+print(person["name"])
+
+for key, value in person.items():
+    print(f"{key}: {value}")

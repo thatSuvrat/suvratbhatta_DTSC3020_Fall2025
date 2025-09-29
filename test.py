@@ -1,10 +1,4 @@
-person = {
-    "name": "John Doe",
-    "age": 30,
-    "city": "New York"
-}
+b = "hello"
+a = 5
 
-print(person["name"])
-
-for key, value in person.items():
-    print(f"{key}: {value}")
+print("Tax: ", a:.2f)

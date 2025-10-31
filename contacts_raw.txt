@@ -1,0 +1,7 @@
+Alice Johnson <alice@example.com> , +1 (469) 555-1234
+Bob Roberts <bob[at]example.com> , 972-555-777
+Sara M. , sara@mail.co , 214 555 8888
+"Mehdi A." <mehdi.ay@example.org> , (469)555-9999
+Delaram <delaram@example.io>, +1-972-777-2121
+Nima <NIMA@example.io> , 972.777.2121
+duplicate <Alice@Example.com> , 469 555 1234

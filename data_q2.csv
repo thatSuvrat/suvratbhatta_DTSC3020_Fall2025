@@ -1,0 +1,31 @@
+rank,title,link,points,comments,user
+1,Why is Zig so Cool?,https://nilostolte.github.io/tech/articles/ZigCool.html,130,38,vitalnodo
+2,Snapchat open-sources Valdi a cross-platform UI framework,https://github.com/Snapchat/Valdi,41,1,yehiaabdelm
+3,Becoming a Compiler Engineer,https://rona.substack.com/p/becoming-a-compiler-engineer,94,42,lalitkale
+4,Analysis of Hedy Lamarr's Contribution to Spread-Spectrum Communication,https://researchers.one/articles/24.01.00001v4,24,16,drmpeg
+5,Immutable Software Deploys Using ZFS Jails on FreeBSD,https://conradresearch.com/articles/immutable-software-deploy-zfs-jails,17,5,vermaden
+6,Myna: Monospace typeface designed for symbol-heavy programming languages,https://github.com/sayyadirfanali/Myna,199,75,birdculture
+7,How did I get here?,https://how-did-i-get-here.net/,114,33,zachlatta
+8,Ruby Solved My Problem,https://newsletter.masilotti.com/p/ruby-already-solved-my-problem,167,68,joemasilotti
+9,How a devboard works (and how to make your own),https://kaipereira.com/journal/build-a-devboard,35,2,kaipereira
+10,"YouTube Removes Windows 11 Bypass Tutorials, Claims 'Risk of Physical Harm'",https://news.itsfoss.com/youtube-removes-windows-11-bypass-tutorials/,374,136,WaitWaitWha
+11,"Transducer: Composition, Abstraction, Performance",https://funktionale-programmierung.de/en/2018/03/22/transducer.html,71,0,defmarco
+12,Venn Diagram for 7 Sets,https://moebio.com/research/sevensets/,92,15,bramadityaw
+13,FSF40 Hackathon,https://www.fsf.org/events/fsf40-hackathon,44,0,salutis
+14,Ribir: Non-intrusive GUI framework for Rust/WASM,https://github.com/RibirX/Ribir,44,4,adamnemecek
+15,FAA restricts commercial rocket launches indefinitely due to air traffic risks,https://www.space.com/space-exploration/launches-spacecraft/faa-restricts-commercial-rocket-launches-indefinitely-due-to-air-traffic-risks-from-government-shutdown,74,18,bookmtn
+16,Using the Web Monetization API for fun and profit,https://blog.tomayac.com/2025/11/07/using-the-web-monetization-api-for-fun-and-profit/,23,3,tomayac
+17,I Love OCaml,https://mccd.space/posts/ocaml-the-worlds-best/,293,197,art-w
+18,VLC's Jean-Baptiste Kempf Receives the European SFS Award 2025,https://fsfe.org/news/2025/news-20251107-01.en.html,234,38,kirschner
+19,"Objective-C for Windows, including UIKit (public archive). From Microsoft",https://github.com/microsoft/WinObjC,26,5,zerr
+20,James Watson has died,https://www.nytimes.com/2025/11/07/science/james-watson-dead.html,228,121,granzymes
+21,"Angel Investors, a Field Guide",https://www.jeanyang.com/posts/angel-investors-a-field-guide/,101,21,azhenley
+22,Shell Grotto: England's mysterious underground seashell chamber,https://boingboing.net/2025/09/05/shell-grotto-englands-mysterious-underground-seashell-chamber.html,4,0,the-mitr
+23,He Jiankui PhD Thesis: Spontaneous Emergence of Hierarchy in Biological Systems (2010),https://repository.rice.edu/server/api/core/bitstreams/85449216-b2ec-4519-87cf-83eafe4534e7/content,11,8,gradus_ad
+24,Mind captioning: Evolving descriptive text of mental content of brain activity,https://www.science.org/doi/10.1126/sciadv.adw1464,11,7,Marshferm
+25,Understanding traffic,https://dr2chase.wordpress.com/,36,26,kunley
+26,Developers in C-Level Meetings,https://radekmie.dev/blog/on-developers-in-c-level-meetings/,21,3,keyle
+27,I'm making a small RPG and I need feeback regarding performance,https://jslegenddev.substack.com/p/im-making-a-small-rpg-and-i-need,66,59,ibobev
+28,Sweep (YC S23) is hiring to build autocomplete for JetBrains,https://www.ycombinator.com/companies/sweep/jobs/8dUn406-founding-engineer-intern,0,0,
+29,The Boss Has a Message: Use AI or You're Fired,https://www.wsj.com/tech/ai/ai-work-use-performance-reviews-1e8975df,21,9,zerosizedweasle
+30,Denmark's government aims to ban access to social media for children under 15,https://apnews.com/article/denmark-social-media-ban-children-7862d2a8cc590b4969c8931a01adc7f4,409,297,c420

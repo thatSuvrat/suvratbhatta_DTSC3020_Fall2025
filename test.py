@@ -1,4 +1,1 @@
-b = "hello"
-a = 5
-
-print("Tax: ", a:.2f)
+print("All my friends are gay!")
